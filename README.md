@@ -7,4 +7,4 @@ Official implement of XTrack, a generalist and blind RGB-X tracker. [[Preprint](
 
 
 ### Our Results on RGB-Depth,RGB-Event, and RGB-Thermal Datasets
-[Google Drive](https://www.google.com))
+[Google Drive](https://drive.google.com/drive/folders/1GamVMv4v7OcYeu_xFynck6Odb-9-QtKq?usp=drive_link)
