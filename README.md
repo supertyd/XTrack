@@ -22,4 +22,5 @@ Official implement of XTrack, a generalist and blind RGB-X tracker. [[Preprint](
 | **ProTrack** | 57.8                  | 57.3             | 58.3             | 65.1                | 80.1                 | 80.2                 | 53.8         | 42.0        | 79.5           | 59.9           | 63.2           | 47.1           |
 
 
+https://github.com/user-attachments/assets/ef2b62fa-d2db-459b-9da9-7400266a60d4
 
