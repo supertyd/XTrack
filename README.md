@@ -105,12 +105,12 @@ Please cite our work if you think it is useful for your research.
 
 ```bibtex
 
-@inproceedings{Tan2024XTrack,
-  author    = {Yuedong Tan and Zongwei Wu and Yuqian Fu and Zhuyun Zhou and Guang Sun and Chang-Bin Ma and Danda Pani Paudel and Luc Van Gool and Radu Timofte},
-  title     = {XTrack: Multimodal Training Boosts RGB-X Video Object Trackers},
-  booktitle   = {ICCV 2025},
-  year      = {2025},
 
+@inproceedings{tan2024,
+  title={Towards a generalist and blind RGB-X tracker},
+  author={Tan, Yuedong and Wu, Zongwei and Fu, Yuqian and Zhou, Zhuyun and Sun, Guolei and Ma, Chao and Paudel, Danda Pani and Van Gool, Luc and Timofte, Radu},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},,
+  year={2025}
 }
 ```
 
