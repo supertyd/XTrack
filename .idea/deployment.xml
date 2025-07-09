@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="newnew_computer" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="newnew_computer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/42-julia-hpc-rz-cv/yut54ia/BAT " local="$PROJECT_DIR$/../Downloads/BAT" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
