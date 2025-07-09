@@ -1,6 +1,6 @@
 # XTrack
 Official implement of XTrack(XTrack: Multimodal Training Boosts RGB-X Video Object Trackers).
-
+:star: :star: :star: ICCV 2025 :star: :star: :star:
 Paper: [[Preprint](https://arxiv.org/pdf/2405.17773)].
 
 Data: [🤗 VOT-RGBD2022](https://huggingface.co/datasets/taryya/VOT-RGBD202) 
