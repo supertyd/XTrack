@@ -10,7 +10,7 @@ Model Weight: [🤗XTrack-Base&OSTrack&DropMAE](https://huggingface.co/taryya/XT
 Raw Result:[Google Drive](https://drive.google.com/drive/folders/1GamVMv4v7OcYeu_xFynck6Odb-9-QtKq?usp=drive_link)
 
 ### Mixture of Modal Experts
-![meme_pipeline](https://github.com/user-attachments/assets/c5ab5341-c2f3-493c-9ea0-3b6457368301)
+![meme_pipeline](https://github.com/supertyd/XTrack/blob/main/meme_pipeline.gif)
 
 
 
