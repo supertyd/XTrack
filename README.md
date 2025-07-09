@@ -109,7 +109,7 @@ Please cite our work if you think it is useful for your research.
 @inproceedings{tan2024,
   title={XTrack: Multimodal Training Boosts RGB-X Video Object Trackers},
   author={Tan, Yuedong and Wu, Zongwei and Fu, Yuqian and Zhou, Zhuyun and Sun, Guolei and Ma, Chao and Paudel, Danda Pani and Van Gool, Luc and Timofte, Radu},
-  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},,
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2025}
 }
 ```
