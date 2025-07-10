@@ -73,7 +73,7 @@ You can also modify paths by these two files:
 ```
 
 ### Training
-Dowmload the pretrained foundation model as posted above.
+Download the pretrained foundation model as posted above.
 and put it under ./pretrained/.
 ```
 bash train_xtrack.sh
